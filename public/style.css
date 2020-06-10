@@ -1,0 +1,16 @@
+
+.dark {
+  background-color: black;
+  color: rgb(132, 228, 102);
+}
+  
+.dark nav a {
+  color: rgb(231, 241, 187);
+
+}
+
+h1 {
+    font-weight: lighter;
+    font-style: italic;
+}
+
